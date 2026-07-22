@@ -6,7 +6,7 @@
     "source:us": "tsx --env-file=.env src/source-us.ts",
     "draft": "tsx --env-file=.env src/draft.ts",
     "send": "tsx --env-file=.env src/send.ts",
-    "serve": "tsx src/server.ts"
+    "serve": "tsx src/server.ts"₹
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.8",
